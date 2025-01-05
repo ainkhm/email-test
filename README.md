@@ -1,4 +1,4 @@
-# Homeflow Posh Property
+# Maizzle Project
 
 The original responsive email template, built with **Tailwind CSS** in **Maizzle**.
 
